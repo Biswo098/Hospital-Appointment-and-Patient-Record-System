@@ -1,0 +1,23 @@
+Title:-Hospital Appointment and Patient Record System
+Problem Statement:
+In many hospitals and small clinics, patient details and appointment records are still managed manually or using basic register systems. This traditional method is time-consuming, error-prone, and difficult to manage when the number of patients increases. Retrieving patient information, tracking appointments, and maintaining records becomes inefficient and sometimes leads to data loss or duplication. There is a need for a simple computerized system that can store patient details securely and allow easy appointment booking in a structured manner.
+Project Description:
+Technologies Used: HTML,CSS,JAVA,MYSQL
+How This Project Solves the Problem: 
+This project replaces manual record keeping with a digital system. Patient details are stored directly into the database, reducing paperwork and avoiding data loss. Appointment booking becomes faster and more organized, as data is stored in structured tables. Since the system is web-based, information can be accessed easily and accurately. The chances of duplicate or incorrect records are reduced.
+Key Features:
+1. Patient registration with essential details
+The system allows patients to register by entering basic information like name, email, password, and phone number. This helps in maintaining a digital record of patients instead of paper-based registers.
+2. Appointment booking with doctor name, department, and date
+Patients can book appointments by selecting the doctor, department, and preferred date through the system. This avoids confusion and ensures proper scheduling of appointments.
+3. Secure storage of data in MySQL database
+All patient and appointment data is stored in a MySQL database, which provides structured and reliable data storage. This reduces the risk of data loss and duplication.
+4. Simple and user-friendly interface
+The interface is designed using HTML and CSS in a clean and simple manner so that users can easily interact with the system. No technical knowledge is required to use the application.
+5. Reduces manual work and human errors
+By automating patient registration and appointment booking, the system minimizes paperwork and manual calculations. This reduces common human errors found in traditional record-keeping.
+6. Faster data entry and retrieval
+Data can be entered quickly through web forms and retrieved instantly from the database. This saves time for hospital staff and improves overall efficiency.
+7. Easy to maintain and understand
+The project follows a simple structure using basic Java, JDBC, and MySQL concepts. This makes the system easy to understand, modify, and maintain for future enhancements.
+
